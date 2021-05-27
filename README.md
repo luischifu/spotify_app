@@ -1,4 +1,11 @@
-# Spotiapp
+# Preview
+
+![](src/assets/img/ejm1.png)
+![](src/assets/img/ejm2.png)
+![](src/assets/img/ejm3.png)
+![](src/assets/img/ejm4.png)
+
+# Spotiapp 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
